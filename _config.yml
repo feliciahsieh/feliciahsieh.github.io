@@ -1,2 +1,4 @@
 name: Felicia Hsieh
 markdown: kramdown
+
+theme: jekyll-theme-slate
