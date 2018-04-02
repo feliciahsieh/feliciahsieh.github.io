@@ -1,7 +1,7 @@
 name: Felicia Hsieh
 markdown: kramdown
 
-url: https://github.com/pages-themes/slate.git
+url: https://pages-themes.github.io/slate/
 baseurl: '/feliciahsieh.github.io'
 
 theme: jekyll-theme-slate
