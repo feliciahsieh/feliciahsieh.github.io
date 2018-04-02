@@ -4,4 +4,4 @@ markdown: kramdown
 url: https://github.com/pages-themes/slate.git
 baseurl: '/'
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
